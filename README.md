@@ -9,7 +9,7 @@ mojroh2308/mojroh2308 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-2 x 6
+3 x 6
 
 
 
